@@ -36,7 +36,8 @@ La prioridad se estima utilizando:
 El resultado se muestra visualmente mediante una barra de prioridad que facilita la identificación de los casos más urgentes.
 
 ## 📸 Capturas de pantalla
-h3>Pantalla principal</h3>
+
+<h3>Pantalla principal</h3>
 <img src="screenshots/OptiTurno.png" width="500">
 
 <h3>Listado de Pacientes</h3>
